@@ -1,0 +1,5 @@
+rootProject.name = 'HW_Grdle2'
+include 'db'
+include 'api'
+include 'service'
+
